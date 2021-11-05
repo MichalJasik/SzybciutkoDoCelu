@@ -1,0 +1,9 @@
+
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-user:before { content: '\e801'; } /* '' */
+.icon-phone:before { content: '\e802'; } /* '' */
+.icon-facebook-rect:before { content: '\f301'; } /* '' */
+.icon-twitter:before { content: '\f302'; } /* '' */
+.icon-twitter-bird:before { content: '\f303'; } /* '' */
+.icon-youtube:before { content: '\f315'; } /* '' */
+.icon-instagram:before { content: '\f32d'; } /* '' */
