@@ -1,6 +1,6 @@
 <?php
 
-$polaczenie=mysqli_connect('localhost', 'm.jasik', 'myjZhKEtAxRPsql', 'm.jasik');
+$polaczenie=mysqli_connect('localhost', 'xxx', 'xxx', 'xxx');
 if (isset($_POST["loguj"])){
     $login=$_POST['login'];
     $haslo=$_POST['haslo'];

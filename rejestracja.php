@@ -110,7 +110,7 @@
 
 
 <?php
-$polaczenie=mysqli_connect('localhost', 'm.jasik', 'myjZhKEtAxRPsql', 'm.jasik');
+$polaczenie=mysqli_connect('localhost', 'xxx', 'xxx', 'xxx');
 $zapytanie="SELECT * from `uzytkownicy`;";
 
 if(empty($_POST["login"]) || empty($_POST["email"]) || empty($_POST["haslo"]) ){
